@@ -1,6 +1,6 @@
 Credits
 =======
-This module was originaly created by [https://github.com/rvdm/toon](https://github.com/rvdm/toon) and all credits go to the original author. I only ported his work to javascript.
+This module was originaly created by [https://github.com/rvdm/toon](https://github.com/rvdm/toon) in Python, all credits go to the original author. I only ported his work to nodejs.
 
 Toon
 ====
